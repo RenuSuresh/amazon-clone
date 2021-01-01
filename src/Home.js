@@ -13,7 +13,7 @@ function Home() {
       {/* product */}
       <div className="home__row">
         <Product
-          id="1231231"
+          id="1"
           title="The Lean Startup"
           price={11.96}
           rating={5}
@@ -29,21 +29,21 @@ function Home() {
       </div>
       <div className="home__row">
         <Product
-          id="1231231"
+          id="3"
           title="Effective dishwashing for Indian cooking"
           price={78.9}
           rating={6}
           image="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/379x304._SY304_CB414475836_.jpg"
         />
         <Product
-          id="1231231"
+          id="4"
           title="Fire TV Stick Lite"
           price={11.96}
           rating={5}
           image="https://images-eu.ssl-images-amazon.com/images/G/31/img19/HeroNov/MSO_Nov/Sheldon1X2._SY304_CB416935227_.jpg"
         />
         <Product
-          id="1231231"
+          id="5"
           title="LAPTOPS FROM TOP BRANDS"
           price={11.96}
           rating={5}
@@ -52,7 +52,7 @@ function Home() {
       </div>
       <div className="home__row">
         <Product
-          id="1231231"
+          id="6"
           title="Home Furnishing"
           price={11.96}
           rating={5}
